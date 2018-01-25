@@ -1,4 +1,4 @@
-# LifecycleAwareLoggingDemo
+# Lifecycle Aware Music Player Demo
 Sample music player app for [Caster.io](https://caster.io) course with lifecycle component to play, pause and stop music when certain lifecycle events are triggered in Activity
 
 Made for **Android Architecture Components Course - Deep Dive** on caster.io which is coming soon!
